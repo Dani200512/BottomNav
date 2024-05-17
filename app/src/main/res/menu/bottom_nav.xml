@@ -9,11 +9,17 @@
         android:id="@+id/profile"
         android:icon="@drawable/usuario"/>
 
+    <item android:title="publication"
+        android:id="@+id/publication"
+        android:icon="@drawable/publicacion"/>
+
     <item android:title="chat"
         android:id="@+id/chat"
-        android:icon="@drawable/conversacion"/>
+        android:icon="@drawable/mensaje"/>
 
     <item android:title="notification"
         android:id="@+id/notification"
         android:icon="@drawable/notificacion"/>
+
+
 </menu>

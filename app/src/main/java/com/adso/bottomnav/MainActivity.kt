@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.profile -> replaceFragment(Profile())
                 R.id.chat -> replaceFragment(Chat())
                 R.id.notification -> replaceFragment(Notification())
+                R.id.publication -> replaceFragment(Publication())
 
                 else -> {
 
