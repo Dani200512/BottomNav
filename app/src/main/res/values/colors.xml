@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="home">#2196F3</color>
+    <color name="profile">#4CAF50</color>
+    <color name="chat">#009688</color>
+    <color name="notificacion">#8BC34A</color>
+
+</resources>

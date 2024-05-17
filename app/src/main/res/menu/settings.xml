@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/buscar"
+        android:icon="@drawable/buscar"
+        android:title="buscar"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ajustes"
+        android:title="settings"
+        >
+
+    <menu>
+        <item
+            android:id="@+id/cuenta"
+            android:title="cuenta"/>
+
+        <item android:id="@+id/privacidad"
+            android:title="privacidad"/>
+
+        <item android:id="@+id/datos"
+            android:title="datos"/>
+
+    </menu>
+    </item>
+</menu>
