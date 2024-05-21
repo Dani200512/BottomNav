@@ -43,6 +43,8 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
+    implementation ("androidx.drawerlayout:drawerlayout:1.2.0")
+    implementation ("androidx.coordinatorlayout:coordinatorlayout:1.2.0")
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
     testImplementation(libs.junit)
